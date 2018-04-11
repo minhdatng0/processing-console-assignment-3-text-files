@@ -10,7 +10,8 @@
 void setup() {
   
    String customername = "";
-   String 
+   String foodorder = "";
+   
   
 }
 
