@@ -9,6 +9,9 @@
  
 void setup() {
   
+   String customername = "";
+   String 
+  
 }
 
 void draw() {
