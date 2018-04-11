@@ -9,9 +9,9 @@
  
 void setup() {
   
-   String customername = "";
-   String foodorder = "";
-   
+   String customer_name = "";
+   String food_order = "";
+   String beverage_order = "";
   
 }
 
