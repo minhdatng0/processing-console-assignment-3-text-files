@@ -1,10 +1,10 @@
 
 /**
- * <program/assignment name>
- * by <Your Name>
+ * <processing-assignment-3>
+ * by Minh Dat Ngo
  * 
- * <Two sentence description of program>
- * 
+ * Computer Science assignment 3
+ * Text-assignment
  */
  
 void setup() {
