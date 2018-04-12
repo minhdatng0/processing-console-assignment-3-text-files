@@ -10,6 +10,8 @@
 void setup() {
    
    int name = 0;
+   int foodlist = 1;
+   int dirnklist =2;
    int foodorder = 3;
    int drinkorder = 4;
    String lines[] = loadStrings("data_folder/list.txt");
