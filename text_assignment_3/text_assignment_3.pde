@@ -10,11 +10,11 @@
 void setup() {
    
    int name = 0;
-   int food = 1;
-   int drink = 2;
+   int foodorder = 3;
+   int drinkorder = 4;
    String lines[] = loadStrings("data_folder/list.txt");
     println("Good evening",lines[name],". Nice to meet you!");
-    
+    println("Our daily specials are…" ); 
 
 }
 
