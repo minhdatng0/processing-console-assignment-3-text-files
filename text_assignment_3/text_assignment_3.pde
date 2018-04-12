@@ -12,7 +12,7 @@ void setup() {
    int name = 0;
    int food = 1;
    int drink = 2;
-   
+   String lines[] = loadStrings("data_folder/list.txt");
 
 }
 
