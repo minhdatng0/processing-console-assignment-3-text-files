@@ -11,11 +11,9 @@ void setup() {
    
    int name = 0;
    int food = 1;
-   int beverage = 2;
-   String customer_name = "";
-   String food_order = "";
-   String beverage_order = "";
-  
+   int drink = 2;
+   
+
 }
 
 void draw() {
